@@ -1,6 +1,6 @@
 function checkPassword() {
     var enteredPassword = document.getElementById('password').value;
-    var correctPassword = 'yourPassword'; // Replace with your actual password
+    var correctPassword = '111551741111193'; // Replace with your actual password
 
     if (enteredPassword === correctPassword) {
         document.getElementById('password-prompt').style.display = 'none';
