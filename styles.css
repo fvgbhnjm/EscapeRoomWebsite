@@ -2,3 +2,8 @@
     font-family: 'Perfect DOS VGA 437 Win';
     src: url('Perfect DOS VGA 437 Win.ttf') format('ttf');
 }
+body {
+            background-color: #0d1117; /* Replace with the color you want */
+            color: #22ff00; /* Replace with the text color you want */
+            font-family: 'Perfect DOS VGA 437 Win', sans-serif;
+        }
